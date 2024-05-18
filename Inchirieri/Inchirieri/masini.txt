@@ -1,0 +1,6 @@
+Honda,2015,30,False,True
+Hyundai,2016,35,False,True
+VW,2005,35,False,False
+Toyota,1988,20,False,True
+Audi,2013,1,False,False
+BMW,2016,1,False,False
